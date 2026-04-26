@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Blog</title>
-    <link>https://example.com/</link>
-    <description>A site built with Grove.</description>
+    <title>Thinking Deeper</title>
+    <link>https://mpreath.github.io/blog/</link>
+    <description>An exploration of philosophy, technology, and other ramblings.</description>
     <language>en</language>
     <item>
   <title>Hello, World</title>
-  <link>https://example.com/posts/hello-world/</link>
-  <guid>https://example.com/posts/hello-world/</guid>
+  <link>https://mpreath.github.io/blog/posts/hello-world/</link>
+  <guid>https://mpreath.github.io/blog/posts/hello-world/</guid>
   <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
   <description>
 &lt;p&gt;Welcome to your new Grove site. Edit this post or create new ones with &lt;code&gt;grove new post &quot;Title&quot;&lt;/code&gt;.&lt;/p&gt;
